@@ -10,5 +10,5 @@ This game mimics the popular Angry Birds gameplay, where players aim and shoot a
 ### 2. Star Wars Death Star
 This graphics program utilizes OpenGL and GLUT to create an engaging space-themed game featuring interactive planets, a Death Star, and dynamic obstacles like rocks. Players navigate their spaceship while shooting lasers to destroy rocks and avoiding collisions, all within a visually appealing cosmic environment.
 
-### 3. 
+### 3. Starry Night
 This C/C++ program uses OpenGL and GLUT to create an interactive graphical application that features a rocket, a moon, a starry sky, and an open window. Key functionalities include animated rocket movement, random color changes on mouse clicks, adjustable moon size with keyboard inputs, and a starry background, providing a simple yet engaging introduction to graphical programming.
